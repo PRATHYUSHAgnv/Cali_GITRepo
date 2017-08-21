@@ -3,3 +3,4 @@ HTML
 CSS
 Angular
 Angular 2
+latest techies
