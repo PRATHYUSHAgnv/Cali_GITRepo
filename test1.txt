@@ -1,4 +1,4 @@
-prathyusha
+technolgies
 HTML
 CSS
 Angular
