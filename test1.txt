@@ -1,4 +1,5 @@
-technolgies
+prathyusha
 HTML
 CSS
 Angular
+Angular 2
